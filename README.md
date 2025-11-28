@@ -7,3 +7,6 @@ __[Blog Posting Link](https://cornpip.tistory.com/133)__
 
 ## prepare opencv android sdk
 [__OpenCV Android Download__ ](https://opencv.org/releases/)
+
+## License
+This project is distributed under the MIT License. See [LICENSE](./LICENSE) for full terms.
